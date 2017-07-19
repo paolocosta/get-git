@@ -87,7 +87,7 @@ creato solo il database, senza il ``file system``, per cui non sarà
 possibile fare ``add`` e ``checkout``
 
 Invece, sui due ``repository`` personali, potresti configurare ad arte i
-permessi di accesso, restringendoliai soli proprietari; tu sarai il solo
+permessi di accesso, restringendoli ai soli proprietari; tu sarai il solo
 a poter leggere e scrivere sul tuo ``repository`` personale, e non avrai
 modo di accedere a quello del tuo collega; e vice versa. Vi perdete la
 possibilità di spedirvi ``branch`` senza passare dal ``repository``
